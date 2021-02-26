@@ -4,11 +4,12 @@
 }
 
 .info {
-  padding-left: 25rem;
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: flex-start;
   width: 50rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .info h1 {
@@ -17,4 +18,20 @@
 
 .info p {
   font-size: 1.5rem;
+  width: 50%;
+}
+
+.awesome {
+  background: white;
+  color: #1f2535;
+  width: 25%;
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border: transparent;
+  border-radius: 10px;
+}
+
+h3 {
+  color: #1f2535;
 }
