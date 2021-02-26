@@ -4,22 +4,22 @@ import './App.css';
 
 const propertiesReact = [
   {
-    image: './assets/icon1.png',
+    image: '/images/icon1.png',
     title: 'Declarative',
     subtitle: 'react make it painless to create interactive UIs.'
   },
   {
-    image: './assets/icon2.png',
+    image: '/images/icon2.png',
     title: 'Components',
     subtitle: 'Build encapsulated components that manage their state.'
   },
   {
-    image: './assets/icon3.png',
+    image: '/images/icon3.png',
     title: 'Single-Way',
     subtitle: 'A set of immutable values are passed to the component´s.'
   },
   {
-    image: './assets/icon4.png',
+    image: '/images/icon4.png',
     title: 'JSX',
     subtitle: 'Statically-typed, designed to run on modern browser.'
   },
